@@ -1,0 +1,23 @@
+gcc -o "Nume" Server.c ClientHandler.c HttpServer.c main.c -ljansson
+
+  Test pentru Get request, file statice, text si binary
+curl http://localhost:8080/index.html
+curl http://localhost:8080/imagepng.png
+curl http://localhost:8080/imagejpeg.jpeg
+
+  Test pentru Head Request, doar HTTP headers, pentru metadate
+curl -I http://localhost:8080/index.html
+curl -I http://localhost:8080/imagepng.png
+curl -I http://localhost:8080/imagejpeg.jpeg
+
+  Test pentru Post Request, text file sau JSON
+curl -X POST -d " Acest text tocmai ce a fost adaugat" http://localhost:8080/Receiver.txt
+curl -X POST -H "Content-Type: application/json" -d '{"cheie": "valoare"}' http://localhost:8080/Json.json
+
+
+  Test pentru Put Request, text file sau JSON
+curl -X PUT -d "Acest continut este nou si inlocuieste pe cel vechi" http://localhost:8080/Replacer.txt 
+curl -X PUT -H "Content-Type: application/json" -d '{"CheieNoua": "ValoareNoua"}' http://localhost:8080/Json.json
+
+
+

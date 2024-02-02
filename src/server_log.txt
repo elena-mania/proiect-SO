@@ -1,0 +1,37 @@
+Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000216 seconds, Throughput: 745370.370370 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Error sending to socket: Connection reset by peer
+Handling GET request for: /imagejpeg.jpeg
+Error sending to socket: Connection reset by peer
+Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000190 seconds, Throughput: 847368.421053 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.014813 seconds, Throughput: 59818605.279147 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.013375 seconds, Throughput: 66249943.925234 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.017174 seconds, Throughput: 51595027.366950 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.014771 seconds, Throughput: 59988694.062690 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.015817 seconds, Throughput: 56021559.082000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.014474 seconds, Throughput: 61219635.207959 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagepng.png
+Bytes Sent: 886093, Time Taken: 0.016775 seconds, Throughput: 52822235.469449 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagejpeg.jpeg
+Bytes Sent: 64414, Time Taken: 0.001438 seconds, Throughput: 44794158.553547 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /imagejpeg.jpeg
+Bytes Sent: 64414, Time Taken: 0.001084 seconds, Throughput: 59422509.225092 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Handling GET request for: /Json.json
+Bytes Sent: 226, Time Taken: 0.000207 seconds, Throughput: 1091787.439614 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /Json.json
+Bytes Sent: 226, Time Taken: 0.000238 seconds, Throughput: 949579.831933 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /Json.json
+Bytes Sent: 226, Time Taken: 0.000169 seconds, Throughput: 1337278.106509 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Handling GET request for: /4k.jpeg
+Bytes Sent: 1188839, Time Taken: 0.018039 seconds, Throughput: 65903819.502190 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

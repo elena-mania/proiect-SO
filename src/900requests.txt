@@ -1,0 +1,1034 @@
+All requests completed
+Total time taken: 37 seconds
+Handling GET request for: /index.html
+385 Request-uri failed, could not create curl scope in 10s, prea multe request-uri simultan, probabil lipsa de resurse 
+Bytes Sent: 161, Time Taken: 0.000367 seconds, Throughput: 438692.098093 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000333 seconds, Throughput: 483483.483483 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000473 seconds, Throughput: 340380.549683 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000414 seconds, Throughput: 388888.888889 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001603 seconds, Throughput: 100436.681223 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=All requests completed
+Total time taken: 37 seconds
+-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000304 seconds, Throughput: 529605.263158 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000319 seconds, Throughput: 504702.194357 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000324 seconds, Throughput: 496913.580247 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000293 seconds, Throughput: 549488.054608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000514 seconds, Throughput: 313229.571984 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.002152 seconds, Throughput: 74814.126394 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000321 seconds, Throughput: 501557.632399 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000282 seconds, Throughput: 570921.985816 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000404 seconds, Throughput: 398514.851485 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000353 seconds, Throughput: 456090.651558 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000177 seconds, Throughput: 909604.519774 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000331 seconds, Throughput: 486404.833837 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000431 seconds, Throughput: 373549.883991 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000234 seconds, Throughput: 688034.188034 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000317 seconds, Throughput: 507886.435331 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000339 seconds, Throughput: 474926.253687 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000315 seconds, Throughput: 511111.111111 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000414 seconds, Throughput: 388888.888889 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000493 seconds, Throughput: 326572.008114 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000319 seconds, Throughput: 504702.194357 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000243 seconds, Throughput: 662551.440329 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000324 seconds, Throughput: 496913.580247 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000555 seconds, Throughput: 290090.090090 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000411 seconds, Throughput: 391727.493917 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000313 seconds, Throughput: 514376.996805 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000755 seconds, Throughput: 213245.033113 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000553 seconds, Throughput: 291139.240506 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000490 seconds, Throughput: 328571.428571 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000391 seconds, Throughput: 411764.705882 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000443 seconds, Throughput: 363431.151242 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000267 seconds, Throughput: 602996.254682 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.002122 seconds, Throughput: 75871.819039 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000469 seconds, Throughput: 343283.582090 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000407 seconds, Throughput: 395577.395577 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000253 seconds, Throughput: 636363.636364 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000303 seconds, Throughput: 531353.135314 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000165 seconds, Throughput: 975757.575758 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000471 seconds, Throughput: 341825.902335 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000341 seconds, Throughput: 472140.762463 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000309 seconds, Throughput: 521035.598706 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000295 seconds, Throughput: 545762.711864 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000250 seconds, Throughput: 644000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000510 seconds, Throughput: 315686.274510 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000668 seconds, Throughput: 241017.964072 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000638 seconds, Throughput: 252351.097179 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000908 seconds, Throughput: 177312.775330 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001024 seconds, Throughput: 157226.562500 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000593 seconds, Throughput: 271500.843170 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001000 seconds, Throughput: 161000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000311 seconds, Throughput: 517684.887460 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000244 seconds, Throughput: 659836.065574 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000221 seconds, Throughput: 728506.787330 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000364 seconds, Throughput: 442307.692308 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000351 seconds, Throughput: 458689.458689 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.003471 seconds, Throughput: 46384.327283 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.003908 seconds, Throughput: 41197.543501 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000654 seconds, Throughput: 246177.370031 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.011401 seconds, Throughput: 14121.568283 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000253 seconds, Throughput: 636363.636364 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000584 seconds, Throughput: 275684.931507 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000446 seconds, Throughput: 360986.547085 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000328 seconds, Throughput: 490853.658537 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000205 seconds, Throughput: 785365.853659 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000177 seconds, Throughput: 909604.519774 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000295 seconds, Throughput: 545762.711864 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000453 seconds, Throughput: 355408.388521 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000180 seconds, Throughput: 894444.444444 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000257 seconds, Throughput: 626459.143969 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000313 seconds, Throughput: 514376.996805 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000265 seconds, Throughput: 607547.169811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000149 seconds, Throughput: 1080536.912752 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000168 seconds, Throughput: 958333.333333 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000302 seconds, Throughput: 533112.582781 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000196 seconds, Throughput: 821428.571429 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000276 seconds, Throughput: 583333.333333 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000261 seconds, Throughput: 616858.237548 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000425 seconds, Throughput: 378823.529412 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000283 seconds, Throughput: 568904.593640 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000182 seconds, Throughput: 884615.384615 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000295 seconds, Throughput: 545762.711864 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000257 seconds, Throughput: 626459.143969 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000163 seconds, Throughput: 987730.061350 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000293 seconds, Throughput: 549488.054608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000217 seconds, Throughput: 741935.483871 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000258 seconds, Throughput: 624031.007752 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000259 seconds, Throughput: 621621.621622 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000498 seconds, Throughput: 323293.172691 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000251 seconds, Throughput: 641434.262948 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000340 seconds, Throughput: 473529.411765 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000302 seconds, Throughput: 533112.582781 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000259 seconds, Throughput: 621621.621622 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000327 seconds, Throughput: 492354.740061 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000415 seconds, Throughput: 387951.807229 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000260 seconds, Throughput: 619230.769231 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000302 seconds, Throughput: 533112.582781 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000296 seconds, Throughput: 543918.918919 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000291 seconds, Throughput: 553264.604811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000343 seconds, Throughput: 469387.755102 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000410 seconds, Throughput: 392682.926829 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000309 seconds, Throughput: 521035.598706 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000311 seconds, Throughput: 517684.887460 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000200 seconds, Throughput: 805000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000267 seconds, Throughput: 602996.254682 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000278 seconds, Throughput: 579136.690647 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000282 seconds, Throughput: 570921.985816 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000301 seconds, Throughput: 534883.720930 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000303 seconds, Throughput: 531353.135314 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000270 seconds, Throughput: 596296.296296 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000276 seconds, Throughput: 583333.333333 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000416 seconds, Throughput: 387019.230769 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000345 seconds, Throughput: 466666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000167 seconds, Throughput: 964071.856287 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001921 seconds, Throughput: 83810.515357 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001380 seconds, Throughput: 116666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000616 seconds, Throughput: 261363.636364 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000301 seconds, Throughput: 534883.720930 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000460 seconds, Throughput: 350000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000209 seconds, Throughput: 770334.928230 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000191 seconds, Throughput: 842931.937173 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000326 seconds, Throughput: 493865.030675 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000364 seconds, Throughput: 442307.692308 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000323 seconds, Throughput: 498452.012384 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.006701 seconds, Throughput: 24026.264737 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000411 seconds, Throughput: 391727.493917 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000970 seconds, Throughput: 165979.381443 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000278 seconds, Throughput: 579136.690647 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000386 seconds, Throughput: 417098.445596 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000295 seconds, Throughput: 545762.711864 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000274 seconds, Throughput: 587591.240876 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000260 seconds, Throughput: 619230.769231 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000268 seconds, Throughput: 600746.268657 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000336 seconds, Throughput: 479166.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000263 seconds, Throughput: 612167.300380 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000248 seconds, Throughput: 649193.548387 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000347 seconds, Throughput: 463976.945245 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000281 seconds, Throughput: 572953.736655 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000269 seconds, Throughput: 598513.011152 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000314 seconds, Throughput: 512738.853503 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000328 seconds, Throughput: 490853.658537 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000346 seconds, Throughput: 465317.919075 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000254 seconds, Throughput: 633858.267717 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000323 seconds, Throughput: 498452.012384 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000347 seconds, Throughput: 463976.945245 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000541 seconds, Throughput: 297597.042514 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000490 seconds, Throughput: 328571.428571 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000432 seconds, Throughput: 372685.185185 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000173 seconds, Throughput: 930635.838150 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000400 seconds, Throughput: 402500.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000270 seconds, Throughput: 596296.296296 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000360 seconds, Throughput: 447222.222222 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000306 seconds, Throughput: 526143.790850 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000267 seconds, Throughput: 602996.254682 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000287 seconds, Throughput: 560975.609756 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000232 seconds, Throughput: 693965.517241 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000331 seconds, Throughput: 486404.833837 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001835 seconds, Throughput: 87738.419619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000302 seconds, Throughput: 533112.582781 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000291 seconds, Throughput: 553264.604811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000333 seconds, Throughput: 483483.483483 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000320 seconds, Throughput: 503125.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000337 seconds, Throughput: 477744.807122 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000219 seconds, Throughput: 735159.817352 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000250 seconds, Throughput: 644000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000258 seconds, Throughput: 624031.007752 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000327 seconds, Throughput: 492354.740061 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000250 seconds, Throughput: 644000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000325 seconds, Throughput: 495384.615385 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000388 seconds, Throughput: 414948.453608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000314 seconds, Throughput: 512738.853503 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000167 seconds, Throughput: 964071.856287 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000510 seconds, Throughput: 315686.274510 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000324 seconds, Throughput: 496913.580247 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000338 seconds, Throughput: 476331.360947 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000224 seconds, Throughput: 718750.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000367 seconds, Throughput: 438692.098093 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000311 seconds, Throughput: 517684.887460 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000327 seconds, Throughput: 492354.740061 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000326 seconds, Throughput: 493865.030675 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000228 seconds, Throughput: 706140.350877 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000175 seconds, Throughput: 920000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000444 seconds, Throughput: 362612.612613 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000235 seconds, Throughput: 685106.382979 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000229 seconds, Throughput: 703056.768559 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000459 seconds, Throughput: 350762.527233 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000344 seconds, Throughput: 468023.255814 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000517 seconds, Throughput: 311411.992263 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000275 seconds, Throughput: 585454.545455 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000265 seconds, Throughput: 607547.169811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000167 seconds, Throughput: 964071.856287 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000326 seconds, Throughput: 493865.030675 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000381 seconds, Throughput: 422572.178478 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000381 seconds, Throughput: 422572.178478 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000325 seconds, Throughput: 495384.615385 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000282 seconds, Throughput: 570921.985816 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000409 seconds, Throughput: 393643.031785 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000336 seconds, Throughput: 479166.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000235 seconds, Throughput: 685106.382979 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000320 seconds, Throughput: 503125.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000418 seconds, Throughput: 385167.464115 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001397 seconds, Throughput: 115246.957767 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.004379 seconds, Throughput: 36766.385019 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000246 seconds, Throughput: 654471.544715 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000192 seconds, Throughput: 838541.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000281 seconds, Throughput: 572953.736655 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000247 seconds, Throughput: 651821.862348 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000328 seconds, Throughput: 490853.658537 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000768 seconds, Throughput: 209635.416667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000231 seconds, Throughput: 696969.696970 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000409 seconds, Throughput: 393643.031785 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000404 seconds, Throughput: 398514.851485 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000543 seconds, Throughput: 296500.920810 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000352 seconds, Throughput: 457386.363636 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000337 seconds, Throughput: 477744.807122 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000236 seconds, Throughput: 682203.389831 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.001629 seconds, Throughput: 98833.640270 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000148 seconds, Throughput: 1087837.837838 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000171 seconds, Throughput: 941520.467836 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000313 seconds, Throughput: 514376.996805 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000308 seconds, Throughput: 522727.272727 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.002333 seconds, Throughput: 69009.858551 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000227 seconds, Throughput: 709251.101322 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000617 seconds, Throughput: 260940.032415 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000218 seconds, Throughput: 738532.110092 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000175 seconds, Throughput: 920000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000260 seconds, Throughput: 619230.769231 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000275 seconds, Throughput: 585454.545455 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000335 seconds, Throughput: 480597.014925 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000263 seconds, Throughput: 612167.300380 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000313 seconds, Throughput: 514376.996805 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000666 seconds, Throughput: 241741.741742 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000479 seconds, Throughput: 336116.910230 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000407 seconds, Throughput: 395577.395577 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000903 seconds, Throughput: 178294.573643 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000247 seconds, Throughput: 651821.862348 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000278 seconds, Throughput: 579136.690647 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000346 seconds, Throughput: 465317.919075 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000324 seconds, Throughput: 496913.580247 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000258 seconds, Throughput: 624031.007752 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000446 seconds, Throughput: 360986.547085 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000744 seconds, Throughput: 216397.849462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000248 seconds, Throughput: 649193.548387 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000462 seconds, Throughput: 348484.848485 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000399 seconds, Throughput: 403508.771930 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000265 seconds, Throughput: 607547.169811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000337 seconds, Throughput: 477744.807122 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000478 seconds, Throughput: 336820.083682 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000269 seconds, Throughput: 598513.011152 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000514 seconds, Throughput: 313229.571984 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000254 seconds, Throughput: 633858.267717 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000620 seconds, Throughput: 259677.419355 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000166 seconds, Throughput: 969879.518072 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000482 seconds, Throughput: 334024.896266 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000326 seconds, Throughput: 493865.030675 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000271 seconds, Throughput: 594095.940959 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000283 seconds, Throughput: 568904.593640 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000293 seconds, Throughput: 549488.054608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000199 seconds, Throughput: 809045.226131 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000370 seconds, Throughput: 435135.135135 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000287 seconds, Throughput: 560975.609756 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000292 seconds, Throughput: 551369.863014 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000323 seconds, Throughput: 498452.012384 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000362 seconds, Throughput: 444751.381215 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000359 seconds, Throughput: 448467.966574 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000269 seconds, Throughput: 598513.011152 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000264 seconds, Throughput: 609848.484848 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000348 seconds, Throughput: 462643.678161 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000238 seconds, Throughput: 676470.588235 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000379 seconds, Throughput: 424802.110818 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000317 seconds, Throughput: 507886.435331 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000478 seconds, Throughput: 336820.083682 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000340 seconds, Throughput: 473529.411765 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000252 seconds, Throughput: 638888.888889 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000195 seconds, Throughput: 825641.025641 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000242 seconds, Throughput: 665289.256198 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000255 seconds, Throughput: 631372.549020 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000287 seconds, Throughput: 560975.609756 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000270 seconds, Throughput: 596296.296296 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000313 seconds, Throughput: 514376.996805 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000357 seconds, Throughput: 450980.392157 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000268 seconds, Throughput: 600746.268657 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000282 seconds, Throughput: 570921.985816 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000165 seconds, Throughput: 975757.575758 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000242 seconds, Throughput: 665289.256198 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000293 seconds, Throughput: 549488.054608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000286 seconds, Throughput: 562937.062937 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000337 seconds, Throughput: 477744.807122 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000317 seconds, Throughput: 507886.435331 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000462 seconds, Throughput: 348484.848485 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000252 seconds, Throughput: 638888.888889 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000312 seconds, Throughput: 516025.641026 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000296 seconds, Throughput: 543918.918919 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000509 seconds, Throughput: 316306.483301 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000335 seconds, Throughput: 480597.014925 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000177 seconds, Throughput: 909604.519774 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000365 seconds, Throughput: 441095.890411 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000266 seconds, Throughput: 605263.157895 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000226 seconds, Throughput: 712389.380531 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000259 seconds, Throughput: 621621.621622 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000332 seconds, Throughput: 484939.759036 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000570 seconds, Throughput: 282456.140351 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000247 seconds, Throughput: 651821.862348 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000255 seconds, Throughput: 631372.549020 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000347 seconds, Throughput: 463976.945245 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000432 seconds, Throughput: 372685.185185 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000400 seconds, Throughput: 402500.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000172 seconds, Throughput: 936046.511628 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000495 seconds, Throughput: 325252.525253 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000328 seconds, Throughput: 490853.658537 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000261 seconds, Throughput: 616858.237548 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000181 seconds, Throughput: 889502.762431 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000246 seconds, Throughput: 654471.544715 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000347 seconds, Throughput: 463976.945245 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000278 seconds, Throughput: 579136.690647 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000372 seconds, Throughput: 432795.698925 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000322 seconds, Throughput: 500000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000423 seconds, Throughput: 380614.657210 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000271 seconds, Throughput: 594095.940959 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000264 seconds, Throughput: 609848.484848 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000274 seconds, Throughput: 587591.240876 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000344 seconds, Throughput: 468023.255814 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000250 seconds, Throughput: 644000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000331 seconds, Throughput: 486404.833837 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000303 seconds, Throughput: 531353.135314 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000469 seconds, Throughput: 343283.582090 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000382 seconds, Throughput: 421465.968586 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000248 seconds, Throughput: 649193.548387 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000397 seconds, Throughput: 405541.561713 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000274 seconds, Throughput: 587591.240876 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000280 seconds, Throughput: 575000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000255 seconds, Throughput: 631372.549020 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000532 seconds, Throughput: 302631.578947 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000251 seconds, Throughput: 641434.262948 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000237 seconds, Throughput: 679324.894515 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000353 seconds, Throughput: 456090.651558 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000253 seconds, Throughput: 636363.636364 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000290 seconds, Throughput: 555172.413793 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000276 seconds, Throughput: 583333.333333 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000256 seconds, Throughput: 628906.250000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000304 seconds, Throughput: 529605.263158 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000301 seconds, Throughput: 534883.720930 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000333 seconds, Throughput: 483483.483483 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000326 seconds, Throughput: 493865.030675 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000283 seconds, Throughput: 568904.593640 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000636 seconds, Throughput: 253144.654088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000291 seconds, Throughput: 553264.604811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000303 seconds, Throughput: 531353.135314 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000350 seconds, Throughput: 460000.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000685 seconds, Throughput: 235036.496350 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000256 seconds, Throughput: 628906.250000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000450 seconds, Throughput: 357777.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000293 seconds, Throughput: 549488.054608 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000437 seconds, Throughput: 368421.052632 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000685 seconds, Throughput: 235036.496350 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000258 seconds, Throughput: 624031.007752 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000689 seconds, Throughput: 233671.988389 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000262 seconds, Throughput: 614503.816794 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000289 seconds, Throughput: 557093.425606 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000270 seconds, Throughput: 596296.296296 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000160 seconds, Throughput: 1006250.000000 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000311 seconds, Throughput: 517684.887460 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000667 seconds, Throughput: 241379.310345 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000291 seconds, Throughput: 553264.604811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000287 seconds, Throughput: 560975.609756 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000300 seconds, Throughput: 536666.666667 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000288 seconds, Throughput: 559027.777778 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000305 seconds, Throughput: 527868.852459 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000358 seconds, Throughput: 449720.670391 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000392 seconds, Throughput: 410714.285714 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000285 seconds, Throughput: 564912.280702 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000299 seconds, Throughput: 538461.538462 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000265 seconds, Throughput: 607547.169811 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000821 seconds, Throughput: 196102.314251 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000437 seconds, Throughput: 368421.052632 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000315 seconds, Throughput: 511111.111111 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000420 seconds, Throughput: 383333.333333 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000277 seconds, Throughput: 581227.436823 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000358 seconds, Throughput: 449720.670391 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000863 seconds, Throughput: 186558.516802 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000346 seconds, Throughput: 465317.919075 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000340 seconds, Throughput: 473529.411765 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000166 seconds, Throughput: 969879.518072 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000255 seconds, Throughput: 631372.549020 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000279 seconds, Throughput: 577060.931900 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000312 seconds, Throughput: 516025.641026 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000297 seconds, Throughput: 542087.542088 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000401 seconds, Throughput: 401496.259352 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000259 seconds, Throughput: 621621.621622 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000274 seconds, Throughput: 587591.240876 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000323 seconds, Throughput: 498452.012384 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000199 seconds, Throughput: 809045.226131 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000604 seconds, Throughput: 266556.291391 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000275 seconds, Throughput: 585454.545455 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000287 seconds, Throughput: 560975.609756 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000244 seconds, Throughput: 659836.065574 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000314 seconds, Throughput: 512738.853503 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000705 seconds, Throughput: 228368.794326 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000273 seconds, Throughput: 589743.589744 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000317 seconds, Throughput: 507886.435331 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000171 seconds, Throughput: 941520.467836 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000391 seconds, Throughput: 411764.705882 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000579 seconds, Throughput: 278065.630397 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000296 seconds, Throughput: 543918.918919 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000274 seconds, Throughput: 587591.240876 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000317 seconds, Throughput: 507886.435331 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000284 seconds, Throughput: 566901.408451 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000186 seconds, Throughput: 865591.397849 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000272 seconds, Throughput: 591911.764706 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000410 seconds, Throughput: 392682.926829 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000294 seconds, Throughput: 547619.047619 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Handling GET request for: /index.html
+Bytes Sent: 161, Time Taken: 0.000194 seconds, Throughput: 829896.907216 bytes/sec
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
